@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_create"
+        android:title="Create Switch"
+        android:icon="@drawable/ic_add" />
+    <item
+        android:id="@+id/navigation_wallet"
+        android:title="My Wallet"
+        android:icon="@drawable/ic_wallet" />
+
+    <item
+        android:id="@+id/navigation_withdraw"
+        android:title="Withdraw"
+        android:icon="@drawable/ic_file_key" />
+</menu>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OKXGuardian</string>
+    <string name="add_with_mnemonic">Add With Seed Phrase</string>
+</resources>
